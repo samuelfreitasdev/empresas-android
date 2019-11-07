@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@color/medium_pink</color>
+    <color name="primary_dark">#b6004c</color>
+    <color name="accent">#d81B60</color>
+
+    <color name="primary_text">#2d3142</color>
+    <color name="secondary_text">#aaaaaa</color>
+    <color name="icons">@color/material_white</color>
+    <color name="divider">@color/material_grey400</color>
+
+
+    <color name="beige">#ebe9d7</color>
+    <color name="greeny_blue">#57BBBC</color>
+    <color name="white">#ffffff</color>
+    <color name="charcoal_grey">#383743</color>
+    <color name="medium_pink">#ee4c77</color>
+    <color name="warm_grey">#8d8c8c</color>
+</resources>

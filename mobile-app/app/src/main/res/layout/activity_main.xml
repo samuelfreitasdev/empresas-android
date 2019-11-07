@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<br.com.sf.empresas_android.ui.widgets.ContainersLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/activity_main__containers_layout"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:fitsSystemWindows="true" />
